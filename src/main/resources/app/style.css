@@ -1,0 +1,12 @@
+.noBorder {
+    -fx-border-radius: 0px;
+}
+
+#TitleBar {
+    -fx-background-color: white;
+}
+
+.split-pane-divider {
+    -fx-opacity: 0;
+    -fx-padding: 0 0.2em 0 0.2em;
+}
